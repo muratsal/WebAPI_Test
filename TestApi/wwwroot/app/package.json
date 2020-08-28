@@ -1,0 +1,17 @@
+{
+  "name": "testapp",
+  "version": "1.0.0",
+  "description": "test for WebAPI client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "testapp"
+  ],
+  "author": "Murat ÇAKAL",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.5.2"
+  }
+}
